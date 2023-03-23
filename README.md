@@ -1,1 +1,1 @@
-# Leetcode problems solutions: Python3 & C++
+# Leetcode problems solutions: Python3 and/or C++
